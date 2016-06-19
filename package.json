@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/jhmt/ATSketch#readme",
   "devDependencies": {
+    "angular": "^1.5.7",
+    "angular-mocks": "^1.5.7",
     "browser-sync": "^2.13.0",
     "gulp": "^3.9.1",
     "gulp-plumber": "^1.1.0",
