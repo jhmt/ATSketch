@@ -16,5 +16,16 @@
   "bugs": {
     "url": "https://github.com/jhmt/ATSketch/issues"
   },
-  "homepage": "https://github.com/jhmt/ATSketch#readme"
+  "homepage": "https://github.com/jhmt/ATSketch#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-typescript": "^2.13.6",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-typescript-preprocessor": "^0.2.1",
+    "typescript": "^1.8.10"
+  }
 }
